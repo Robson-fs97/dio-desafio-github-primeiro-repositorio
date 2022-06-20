@@ -1,0 +1,16 @@
+Links úteis:
+
+Download do Git: https://git-scm.com/
+Documentação do GitHub: https://docs.github.com/
+Sintáxe Básica dos Arquivos Markdown: https://markdownguide.org/basic-syntax
+
+Comandos úteis:
+
+git init - Cria um novo repositório do Git, primeiro comando a ser utilizado ao executar um novo projeto.
+git clone - Clona um repositório já existente no servidor remoto para o local.
+git add - Adiciona um arquivo no agrupamento Staged preparando-o para o commit.
+git commit - "Commita" os arquivos no agrupamento Staged preparando-os para um push.
+git remote add origin - Seta a URL do seu repositório para onde o push enviará os arquivos.
+git push - Faz o envio dos arquivos do área de trabalho local para o servidor remoto.
+git pull - Puxa os arquivos do servidor remoto para o local.
+
